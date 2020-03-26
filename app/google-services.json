@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846651810071",
+    "firebase_url": "https://nastolki-team.firebaseio.com",
+    "project_id": "nastolki-team",
+    "storage_bucket": "nastolki-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846651810071:android:153bcdca75a63ddb829752",
+        "android_client_info": {
+          "package_name": "com.lorens.nastolkiteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846651810071-jr63t5sdnqea0o6en8gedfjqfm5oobf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lorens.nastolkiteam",
+            "certificate_hash": "9a3dd52f2e3024f7b93fde0c8329622889bac21c"
+          }
+        },
+        {
+          "client_id": "846651810071-f1uan3s55o29quoo81br002g540ecp35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZV6Nki8rkKU2vdWK3mym6Zoz_eErreic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846651810071-f1uan3s55o29quoo81br002g540ecp35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
